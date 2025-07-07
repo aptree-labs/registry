@@ -1,0 +1,8 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": ["*.tree.json"],
+            "url": "/schema.registry.json"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#", 
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string"
+        },
+        "id": {
+            "type": "string"
+        },
+        "description": {
+            "type": "string"
+        },
+        "image": {
+            "type": "string"
+        },
+        "svg": {
+            "type": "string"
+        },
+        "growth-stages": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "type": "string"
+                    },
+                    "sequence": {
+                        "type": "number"
+                    },
+                    "name": {
+                        "type": "string"
+                    },
+                    "image": {
+                        "type": "string"
+                    },
+                    "required-droplets": {
+                        "type": "number"
+                    },
+                    "streak": {
+                        "type": "number"
+                    },
+                    "svg": {
+                        "type": "string"
+                    }, 
+                    "description": {
+                        "type": "string"
+                    }
+                },
+                "required": ["sequence", "name", "image", "id", "description"]
+            }
+        }
+    }
+}
