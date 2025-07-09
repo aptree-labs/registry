@@ -4,13 +4,13 @@
     "image": "mature.png",
     "svg": "mature.svg",
     "id": "willow",
-    "growth-stages": [
+    "stages": [
         {
             "id": "seed",
             "name": "Seed",
             "image": "seed.png",
             "svg": "seed.svg",
-            "required-droplets": 0,
+            "droplets": 0,
             "sequence": 0,
             "streak": 0,
             "description": "Buried beneath the surface, the seed hums with quiet energy. It holds the entire blueprint of the tree's future—waiting for light, water, and purpose."
@@ -20,7 +20,7 @@
             "name": "Planted",
             "image": "planted.png",
             "svg": "planted.svg",
-            "required-droplets": 10000,
+            "droplets": 10000,
             "sequence": 1,
             "streak": 10,
             "description": "The seed has been placed with care. Now cradled by earth and nourished by intention, its journey begins—still unseen, but already becoming."
@@ -30,7 +30,7 @@
             "name": "Sprout",
             "image": "sprout.png",
             "svg": "sprout.svg",
-            "required-droplets": 15000,
+            "droplets": 15000,
             "sequence": 2,
             "streak": 15,
             "description": "A fragile shoot pierces the soil, reaching for the sky. It's a sign of life, of hope—delicate but determined."
@@ -40,7 +40,7 @@
             "name": "Sapling",
             "image": "sapling.png",
             "svg": "sapling.svg",
-            "required-droplets": 20000,
+            "droplets": 20000,
             "sequence": 3,
             "streak": 20,
             "description": "The trunk strengthens and leaves multiply. No longer just a sprout, the sapling starts to resemble the tree it's destined to become."
@@ -50,7 +50,7 @@
             "name": "Young Tree",
             "image": "young-tree.png",
             "svg": "young-tree.svg",
-            "required-droplets": 30000,
+            "droplets": 30000,
             "sequence": 4,
             "streak": 30,
             "description": "Branches stretch, bark thickens, roots deepen. The tree now claims its space, shaped by wind, sun, and time."
@@ -60,7 +60,7 @@
             "name": "Mature",
             "image": "mature.png",
             "svg": "mature.svg",
-            "required-droplets": 100000,
+            "droplets": 100000,
             "sequence": 5,
             "streak": 99999999999999,
             "description": "The tree stands tall—resilient, proud, and fully formed. It may now bear fruit, offer shelter, or whisper ancient secrets to those who listen."

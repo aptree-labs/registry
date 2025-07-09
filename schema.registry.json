@@ -17,7 +17,7 @@
         "svg": {
             "type": "string"
         },
-        "growth-stages": {
+        "stages": {
             "type": "array",
             "items": {
                 "type": "object",
@@ -34,7 +34,7 @@
                     "image": {
                         "type": "string"
                     },
-                    "required-droplets": {
+                    "droplets": {
                         "type": "number"
                     },
                     "streak": {
