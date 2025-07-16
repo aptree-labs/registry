@@ -1,9 +1,9 @@
 {
-    "name": "Arcacia",
+    "name": "Acacia",
     "description": "Thrives in harsh conditions, bending but never breaking. Known to withstand the fiercest droughts, Acacia trees reward patient caretakers with unmatched endurance.",
     "image": "mature.png",
     "svg": "mature.svg",
-    "id": "arcacia",
+    "id": "acacia",
     "stages": [
         {
             "id": "seed",
@@ -20,9 +20,9 @@
             "name": "Planted",
             "image": "planted.png",
             "svg": "planted.svg",
-            "droplets": 10000,
+            "droplets": 0,
             "sequence": 1,
-            "streak": 10,
+            "streak": 0,
             "description": "The seed has been placed with care. Now cradled by earth and nourished by intention, its journey begins—still unseen, but already becoming."
         },
         {

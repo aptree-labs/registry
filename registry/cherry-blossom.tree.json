@@ -1,9 +1,9 @@
 {
-    "name": "Blossom",
+    "name": "Cherry Blossom",
     "description": "Blooms briefly but beautifully, often signaling a turning point in the cycle. Associated with grace, fragility, and fleeting glory.",
     "image": "mature.png",
     "svg": "mature.svg",
-    "id": "blossom",
+    "id": "cherry-blossom",
     "stages": [
         {
             "id": "seed",
@@ -20,9 +20,9 @@
             "name": "Planted",
             "image": "planted.png",
             "svg": "planted.svg",
-            "droplets": 10000,
+            "droplets": 0,
             "sequence": 1,
-            "streak": 10,
+            "streak": 0,
             "description": "The seed has been placed with care. Now cradled by earth and nourished by intention, its journey begins—still unseen, but already becoming."
         },
         {
