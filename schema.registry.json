@@ -17,6 +17,10 @@
         "svg": {
             "type": "string"
         },
+        "full": {
+            "type": "string",
+            "description": "Full image with background"
+        },
         "stages": {
             "type": "array",
             "items": {
@@ -45,10 +49,15 @@
                     }, 
                     "description": {
                         "type": "string"
+                    },
+                    "full": {
+                        "type": "string",
+                        "description": "Full image with background"
                     }
                 },
-                "required": ["sequence", "name", "image", "id", "description"]
+                "required": ["sequence", "name", "image", "id", "description", "full"]
             }
-        }
-    }
+        }   
+    },
+    "required": ["name", "id", "description", "image", "svg", "full", "stages"]
 }

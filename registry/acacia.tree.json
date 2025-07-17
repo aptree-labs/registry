@@ -4,6 +4,7 @@
     "image": "mature.png",
     "svg": "mature.svg",
     "id": "acacia",
+    "full": "mature-full.jpg",
     "stages": [
         {
             "id": "seed",
@@ -13,7 +14,8 @@
             "droplets": 0,
             "sequence": 0,
             "streak": 0,
-            "description": "Buried beneath the surface, the seed hums with quiet energy. It holds the entire blueprint of the tree's future—waiting for light, water, and purpose."
+            "description": "Buried beneath the surface, the seed hums with quiet energy. It holds the entire blueprint of the tree's future—waiting for light, water, and purpose.",
+            "full": "seed-full.jpg"
         },
         {
             "id": "planted",
@@ -23,7 +25,8 @@
             "droplets": 0,
             "sequence": 1,
             "streak": 0,
-            "description": "The seed has been placed with care. Now cradled by earth and nourished by intention, its journey begins—still unseen, but already becoming."
+            "description": "The seed has been placed with care. Now cradled by earth and nourished by intention, its journey begins—still unseen, but already becoming.",
+            "full": "planted-full.jpg"
         },
         {
             "id": "sprout",
@@ -33,7 +36,8 @@
             "droplets": 15000,
             "sequence": 2,
             "streak": 15,
-            "description": "A fragile shoot pierces the soil, reaching for the sky. It's a sign of life, of hope—delicate but determined."
+            "description": "A fragile shoot pierces the soil, reaching for the sky. It's a sign of life, of hope—delicate but determined.",
+            "full": "sprout-full.jpg"
         },
         {
             "id": "sapling",
@@ -43,7 +47,8 @@
             "droplets": 20000,
             "sequence": 3,
             "streak": 20,
-            "description": "The trunk strengthens and leaves multiply. No longer just a sprout, the sapling starts to resemble the tree it's destined to become."
+            "description": "The trunk strengthens and leaves multiply. No longer just a sprout, the sapling starts to resemble the tree it's destined to become.",
+            "full": "sapling-full.jpg"
         },
         {
             "id": "young-tree",
@@ -53,7 +58,8 @@
             "droplets": 30000,
             "sequence": 4,
             "streak": 30,
-            "description": "Branches stretch, bark thickens, roots deepen. The tree now claims its space, shaped by wind, sun, and time."
+            "description": "Branches stretch, bark thickens, roots deepen. The tree now claims its space, shaped by wind, sun, and time.",
+            "full": "young-tree-full.jpg"
         },
         {
             "id": "mature",
@@ -63,7 +69,8 @@
             "droplets": 100000,
             "sequence": 5,
             "streak": 99999999999999,
-            "description": "The tree stands tall—resilient, proud, and fully formed. It may now bear fruit, offer shelter, or whisper ancient secrets to those who listen."
+            "description": "The tree stands tall—resilient, proud, and fully formed. It may now bear fruit, offer shelter, or whisper ancient secrets to those who listen.",
+            "full": "mature-full.jpg"
         }
     ]
 }
