@@ -53,11 +53,13 @@
                     "full": {
                         "type": "string",
                         "description": "Full image with background"
-                    }
+                    },
+                    "animation_lottie": {"type": "string"}
                 },
-                "required": ["sequence", "name", "image", "id", "description", "full"]
+                "required": ["sequence", "name", "image", "id", "description", "full", "animation_lottie"]
             }
-        }   
+        },
+        "animation_lottie": {"type": "string"}
     },
-    "required": ["name", "id", "description", "image", "svg", "full", "stages"]
+    "required": ["name", "id", "description", "image", "svg", "full", "stages", "animation_lottie"]
 }

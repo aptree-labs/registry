@@ -1,6 +1,6 @@
 {
     "name": "Yew",
-    "description": "An ominous and sacred tree often found in graveyards and temples. Long-lived and slow-growing—its berries are both toxic and magical.",
+    "description": "An ominous and sacred tree often found in graveyards and temples. Long-lived and slow-growing\u2014its berries are both toxic and magical.",
     "image": "mature.png",
     "svg": "mature.svg",
     "id": "yew",
@@ -15,18 +15,20 @@
             "sequence": 0,
             "streak": 0,
             "full": "seed-full.jpg",
-            "description": "Buried beneath the surface, the seed hums with quiet energy. It holds the entire blueprint of the tree's future—waiting for light, water, and purpose."
+            "description": "Buried beneath the surface, the seed hums with quiet energy. It holds the entire blueprint of the tree's future\u2014waiting for light, water, and purpose.",
+            "animation_lottie": "seed.lottie"
         },
         {
             "id": "planted",
             "name": "Planted",
-            "image": "planted.png",
-            "svg": "planted.svg",
+            "image": "seed.png",
+            "svg": "seed.svg",
             "droplets": 0,
             "sequence": 1,
             "streak": 0,
             "full": "planted-full.jpg",
-            "description": "The seed has been placed with care. Now cradled by earth and nourished by intention, its journey begins—still unseen, but already becoming."
+            "description": "The seed has been placed with care. Now cradled by earth and nourished by intention, its journey begins\u2014still unseen, but already becoming.",
+            "animation_lottie": "seed.lottie"
         },
         {
             "id": "sprout",
@@ -36,8 +38,9 @@
             "droplets": 15000,
             "sequence": 2,
             "streak": 15,
-            "description": "A fragile shoot pierces the soil, reaching for the sky. It's a sign of life, of hope—delicate but determined.",
-            "full": "sprout-full.jpg"
+            "description": "A fragile shoot pierces the soil, reaching for the sky. It's a sign of life, of hope\u2014delicate but determined.",
+            "full": "sprout-full.jpg",
+            "animation_lottie": "sprout.lottie"
         },
         {
             "id": "sapling",
@@ -48,7 +51,8 @@
             "sequence": 3,
             "streak": 20,
             "description": "The trunk strengthens and leaves multiply. No longer just a sprout, the sapling starts to resemble the tree it's destined to become.",
-            "full": "sapling-full.jpg"
+            "full": "sapling-full.jpg",
+            "animation_lottie": "sapling.lottie"
         },
         {
             "id": "young-tree",
@@ -59,7 +63,8 @@
             "sequence": 4,
             "streak": 30,
             "description": "Branches stretch, bark thickens, roots deepen. The tree now claims its space, shaped by wind, sun, and time.",
-            "full": "young-tree-full.jpg"
+            "full": "young-tree-full.jpg",
+            "animation_lottie": "young-tree.lottie"
         },
         {
             "id": "mature",
@@ -69,8 +74,10 @@
             "droplets": 100000,
             "sequence": 5,
             "streak": 99999999999999,
-            "description": "The tree stands tall—resilient, proud, and fully formed. It may now bear fruit, offer shelter, or whisper ancient secrets to those who listen.",
-            "full": "mature-full.jpg"
+            "description": "The tree stands tall\u2014resilient, proud, and fully formed. It may now bear fruit, offer shelter, or whisper ancient secrets to those who listen.",
+            "full": "mature-full.jpg",
+            "animation_lottie": "mature.lottie"
         }
-    ]
+    ],
+    "animation_lottie": "mature.lottie"
 }
