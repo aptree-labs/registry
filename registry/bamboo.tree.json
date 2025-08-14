@@ -6,6 +6,8 @@
     "id": "bamboo",
     "full": "mature-full.jpg",
     "animation_lottie": "mature.lottie",
+    "dead": "mature-dead.png",
+    "full_dead": "mature-dead-full.png",
     "stages": [
         {
             "id": "seed",
@@ -17,18 +19,22 @@
             "streak": 0,
             "full": "seed-full.jpg",
             "animation_lottie": "seed.lottie",
+            "dead": "seed-dead.png",
+            "full_dead": "seed-dead-full.png",
             "description": "Buried beneath the surface, the seed hums with quiet energy. It holds the entire blueprint of the tree's future—waiting for light, water, and purpose."
         },
         {
             "id": "planted",
             "name": "Planted",
-            "image": "planted.png",
-            "svg": "planted.svg",
+            "image": "seed.png",
+            "svg": "seed.svg",
             "droplets": 0,
             "sequence": 1,
             "streak": 0,
-            "full": "planted-full.jpg",
+            "full": "seed-full.jpg",
             "animation_lottie": "seed.lottie",
+            "dead": "planted-dead.png",
+            "full_dead": "planted-dead-full.png",
             "description": "The seed has been placed with care. Now cradled by earth and nourished by intention, its journey begins—still unseen, but already becoming."
         },
         {
@@ -40,6 +46,8 @@
             "sequence": 2,
             "streak": 15,
             "animation_lottie": "sprout.lottie",
+            "dead": "sprout-dead.png",
+            "full_dead": "sprout-dead-full.png",
             "description": "A fragile shoot pierces the soil, reaching for the sky. It's a sign of life, of hope—delicate but determined.",
             "full": "sprout-full.jpg"
         },
@@ -52,6 +60,8 @@
             "sequence": 3,
             "streak": 20,
             "animation_lottie": "sapling.lottie",
+            "dead": "sapling-dead.png",
+            "full_dead": "sapling-dead-full.png",
             "description": "The trunk strengthens and leaves multiply. No longer just a sprout, the sapling starts to resemble the tree it's destined to become.",
             "full": "sapling-full.jpg"
         },
@@ -64,6 +74,8 @@
             "sequence": 4,
             "streak": 30,
             "animation_lottie": "young-tree.lottie",
+            "dead": "young-tree-dead.png",
+            "full_dead": "young-tree-dead-full.png",
             "description": "Branches stretch, bark thickens, roots deepen. The tree now claims its space, shaped by wind, sun, and time.",
             "full": "young-tree-full.jpg"
         },
@@ -76,6 +88,8 @@
             "sequence": 5,
             "streak": 99999999999999,
             "animation_lottie": "mature.lottie",
+            "dead": "mature-dead.png",
+            "full_dead": "mature-dead-full.png",
             "description": "The tree stands tall—resilient, proud, and fully formed. It may now bear fruit, offer shelter, or whisper ancient secrets to those who listen.",
             "full": "mature-full.jpg"
         }

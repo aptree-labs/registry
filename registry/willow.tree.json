@@ -16,7 +16,9 @@
             "streak": 0,
             "full": "seed-full.jpg",
             "description": "Buried beneath the surface, the seed hums with quiet energy. It holds the entire blueprint of the tree's future\u2014waiting for light, water, and purpose.",
-            "animation_lottie": "seed.lottie"
+            "animation_lottie": "seed.lottie",
+            "dead": "seed-dead.png",
+            "full_dead": "seed-dead-full.png"
         },
         {
             "id": "planted",
@@ -28,7 +30,9 @@
             "streak": 0,
             "full": "planted-full.jpg",
             "description": "The seed has been placed with care. Now cradled by earth and nourished by intention, its journey begins\u2014still unseen, but already becoming.",
-            "animation_lottie": "seed.lottie"
+            "animation_lottie": "seed.lottie",
+            "dead": "planted-dead.png",
+            "full_dead": "planted-dead-full.png"
         },
         {
             "id": "sprout",
@@ -40,7 +44,9 @@
             "streak": 15,
             "description": "A fragile shoot pierces the soil, reaching for the sky. It's a sign of life, of hope\u2014delicate but determined.",
             "full": "sprout-full.jpg",
-            "animation_lottie": "sprout.lottie"
+            "animation_lottie": "sprout.lottie",
+            "dead": "sprout-dead.png",
+            "full_dead": "sprout-dead-full.png"
         },
         {
             "id": "sapling",
@@ -52,7 +58,9 @@
             "streak": 20,
             "description": "The trunk strengthens and leaves multiply. No longer just a sprout, the sapling starts to resemble the tree it's destined to become.",
             "full": "sapling-full.jpg",
-            "animation_lottie": "sapling.lottie"
+            "animation_lottie": "sapling.lottie",
+            "dead": "sapling-dead.png",
+            "full_dead": "sapling-dead-full.png"
         },
         {
             "id": "young-tree",
@@ -64,7 +72,9 @@
             "streak": 30,
             "description": "Branches stretch, bark thickens, roots deepen. The tree now claims its space, shaped by wind, sun, and time.",
             "full": "young-tree-full.jpg",
-            "animation_lottie": "young-tree.lottie"
+            "animation_lottie": "young-tree.lottie",
+            "dead": "young-tree-dead.png",
+            "full_dead": "young-tree-dead-full.png"
         },
         {
             "id": "mature",
@@ -76,8 +86,12 @@
             "streak": 99999999999999,
             "description": "The tree stands tall\u2014resilient, proud, and fully formed. It may now bear fruit, offer shelter, or whisper ancient secrets to those who listen.",
             "full": "mature-full.jpg",
-            "animation_lottie": "mature.lottie"
+            "animation_lottie": "mature.lottie",
+            "dead": "mature-dead.png",
+            "full_dead": "mature-dead-full.png"
         }
     ],
-    "animation_lottie": "mature.lottie"
+    "animation_lottie": "mature.lottie",
+    "dead": "mature-dead.png",
+    "full_dead": "mature-dead-full.png"
 }

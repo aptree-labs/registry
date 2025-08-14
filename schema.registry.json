@@ -21,6 +21,13 @@
             "type": "string",
             "description": "Full image with background"
         },
+        "dead":{
+            "type": "string",
+            "description": "Dead tree"
+        },
+        "full_dead": {
+            "type": "string"
+        },
         "stages": {
             "type": "array",
             "items": {
@@ -54,12 +61,18 @@
                         "type": "string",
                         "description": "Full image with background"
                     },
-                    "animation_lottie": {"type": "string"}
+                    "animation_lottie": {"type": "string"},
+                    "dead": {
+                        "type": "string"
+                    },
+                    "full_dead": {
+                        "type": "string"
+                    }
                 },
-                "required": ["sequence", "name", "image", "id", "description", "full", "animation_lottie"]
+                "required": ["sequence", "name", "image", "id", "description", "full", "animation_lottie", "dead", "full_dead"]
             }
         },
         "animation_lottie": {"type": "string"}
     },
-    "required": ["name", "id", "description", "image", "svg", "full", "stages", "animation_lottie"]
+    "required": ["name", "id", "description", "image", "svg", "full", "stages", "animation_lottie", "dead", "full_dead"]
 }
