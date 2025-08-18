@@ -86,7 +86,7 @@
             "svg": "mature.svg",
             "droplets": 100000,
             "sequence": 5,
-            "streak": 99999999999999,
+            "streak": 30,
             "animation_lottie": "mature.lottie",
             "dead": "mature-dead.png",
             "full_dead": "mature-dead-full.png",
