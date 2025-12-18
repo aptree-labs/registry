@@ -89,6 +89,34 @@
             "animation_lottie": "mature.lottie",
             "dead": "mature-dead.png",
             "full_dead": "mature-dead-full.png"
+        },
+        {
+            "id": "mystic",
+            "name": "Mystic",
+            "image": "mature.png",
+            "svg": "mature.svg",
+            "droplets": 100000,
+            "sequence": 6,
+            "streak": 180,
+            "description": "The tree stands tall—resilient, proud, and fully formed. It may now bear fruit, offer shelter, or whisper ancient secrets to those who listen.",
+            "full": "mature-full.jpg",
+            "animation_lottie": "mature.lottie",
+            "dead": "mature-dead.png",
+            "full_dead": "mature-dead-full.png"
+        },
+        {
+            "id": "mystic",
+            "name": "Mystic",
+            "image": "mature.png",
+            "svg": "mature.svg",
+            "droplets": 100000,
+            "sequence": 6,
+            "streak": 180,
+            "description": "The tree stands tall—resilient, proud, and fully formed. It may now bear fruit, offer shelter, or whisper ancient secrets to those who listen.",
+            "full": "mature-full.jpg",
+            "animation_lottie": "mature.lottie",
+            "dead": "mature-dead.png",
+            "full_dead": "mature-dead-full.png"
         }
     ],
     "animation_lottie": "mature.lottie",
